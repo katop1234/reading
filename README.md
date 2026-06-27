@@ -1,6 +1,6 @@
 # Reading
 
-A catalog of books I've read, by theme.
+A catalog of books I've read, or am working through, by theme.
 
 ## Hinduism & Vedic
 
