@@ -2,7 +2,7 @@
 
 A catalog of books I've read, or am working through, by theme.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:E64A19&height=46&section=header&text=Hinduism%20%26%20Vedic&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FF9933,100:E64A19&amp;height=46&amp;section=header&amp;text=Hinduism%20%26%20Vedic&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Hinduism & Vedic
 
@@ -36,7 +36,7 @@ A catalog of books I've read, or am working through, by theme.
 - Meditation and Its Methods
 - My Master
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A460,100:8B1A1A&height=46&section=header&text=Buddhism%20%26%20Zen&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A460,100:8B1A1A&amp;height=46&amp;section=header&amp;text=Buddhism%20%26%20Zen&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Buddhism & Zen
 
@@ -44,7 +44,7 @@ A catalog of books I've read, or am working through, by theme.
 - The Four Noble Truths — *Lama Zopa Rinpoche*
 - Zen Mind, Beginner's Mind — *Shunryu Suzuki*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B86E5,100:36D1DC&height=46&section=header&text=World%20Religions&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:5B86E5,100:36D1DC&amp;height=46&amp;section=header&amp;text=World%20Religions&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## World Religions
 
@@ -58,7 +58,7 @@ A catalog of books I've read, or am working through, by theme.
 - Rehras Sahib
 - Kirtan Sohila
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E9EAB,100:434343&height=46&section=header&text=Philosophy&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E9EAB,100:434343&amp;height=46&amp;section=header&amp;text=Philosophy&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Philosophy
 
@@ -78,14 +78,14 @@ A catalog of books I've read, or am working through, by theme.
 - Hardship and Happiness — *Seneca*
 - Anger, Mercy, Revenge — *Seneca*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=46&section=header&text=Science&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6A11CB,100:2575FC&amp;height=46&amp;section=header&amp;text=Science&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Science
 
 - A Brief History of Time — *Hawking*
 - Black Holes and Baby Universes — *Hawking*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=46&section=header&text=Biographies&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C3E50,100:4CA1AF&amp;height=46&amp;section=header&amp;text=Biographies&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Biographies
 
@@ -99,7 +99,7 @@ A catalog of books I've read, or am working through, by theme.
 - The Mamba Mentality — *Kobe Bryant*
 - Unbroken — *Laura Hillenbrand*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=46&section=header&text=Self%20Help&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:11998E,100:38EF7D&amp;height=46&amp;section=header&amp;text=Self%20Help&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Self Help
 
@@ -131,7 +131,7 @@ A catalog of books I've read, or am working through, by theme.
 - The Art of the Deal — *Donald Trump*
 - The Art of the Comeback — *Donald Trump*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:614385,100:516395&height=46&section=header&text=Literature&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:614385,100:516395&amp;height=46&amp;section=header&amp;text=Literature&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
 ## Literature
 
